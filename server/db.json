@@ -176,24 +176,7 @@
       "featured": true
     },
     {
-      "id": 18,
-      "name": "Sperry the Dog",
-      "userID": 11,
-      "image": "https://pbs.twimg.com/media/DJfOPAiVYAAzWFB.jpg:large",
-      "title": "I'm a dog",
-      "subTitle": "Bark?",
-      "text": "Sperry's my name and I'm a dog. I sleep most of the day, you could mistake me for a log\n\n My best friend is human, he looks kind funny. I'll eat anything including cumin \n\n I once ate a bee, swallowed it whole. Slept in masters bed and kept him from being cold \n\n I can't jump very high, maybe three inches but height doesn't matter when you are chasing...female dogs \n\n How am I talking? I'm just a dog? My owners a poet forced to write these blogs \n\n Woof woof \n\n Bark Bark \n\n Woof Woof.",
-      "featured": false
-    },
-    {
-      "id": 19,
-      "name": "Bryan Smith",
-      "userID": 10,
-      "image": "https://avatars1.githubusercontent.com/u/24623425?v=4&s=460",
-      "title": "Your Boy Brennon",
-      "subTitle": "Mentos & Diet Coke",
-      "text": "Hi, I'm Brennon and I hate shoes\n\n My hair is long and I'm spreading the news \n\n I fell down the stairs and met my wife \n\n Learned to code and changed my life \n\n I ride my bike to work \n\n Offering rides on my handlebars \n\n I AM BRENNON \n\n ",
-      "featured": false
+      "id": 18
     },
     {
       "id": 20,
@@ -221,6 +204,161 @@
       "image": "https://unsplash.it/700/400",
       "text": "dasj;lfksjfl;aksdjflaskj",
       "id": 22
+    },
+    {
+      "title": "Brandon",
+      "subTitle": "Awesome",
+      "image": "https://www.zappos.com/images/z/3/4/2/4/6/2/3424621-t-THUMBNAIL.jpg",
+      "text": "Awesome",
+      "id": 23
+    },
+    {
+      "title": "Brandon",
+      "subTitle": "Awesome",
+      "image": "https://www.zappos.com/images/z/3/4/2/4/6/2/3424621-t-THUMBNAIL.jpg",
+      "text": "Awesome",
+      "id": 24
+    },
+    {
+      "title": "Brandon",
+      "subTitle": "",
+      "image": "",
+      "text": "",
+      "id": 25
+    },
+    {
+      "title": "Brandon",
+      "subTitle": "",
+      "image": "",
+      "text": "",
+      "id": 26
+    },
+    {
+      "title": "Brandon",
+      "subTitle": "",
+      "image": "",
+      "text": "",
+      "id": 27
+    },
+    {
+      "title": "da",
+      "subTitle": "",
+      "image": "",
+      "text": "",
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "title": "asdfa",
+      "subTitle": "asdfas",
+      "image": "asdfasdf",
+      "text": "adsfasdf",
+      "id": 30
+    },
+    {
+      "title": "Brandon",
+      "subTitle": "Allred",
+      "image": "awesomness",
+      "text": "",
+      "id": 31
+    },
+    {
+      "title": "Brand",
+      "subTitle": "d",
+      "image": "d",
+      "text": "d",
+      "id": 32
+    },
+    {
+      "title": "",
+      "subTitle": "",
+      "image": "",
+      "text": "",
+      "id": 33
+    },
+    {
+      "title": "",
+      "subTitle": "",
+      "image": "",
+      "text": "",
+      "id": 34
+    },
+    [
+      {
+        "title": "d",
+        "subTitle": "d",
+        "image": "d",
+        "text": "dasdfads"
+      }
+    ],
+    {
+      "title": "asdf",
+      "subTitle": "asdf",
+      "image": "asdf",
+      "text": "",
+      "id": 36
+    },
+    {
+      "title": "asd",
+      "subTitle": "adsf",
+      "image": "adsf",
+      "text": "",
+      "id": 37
+    },
+    {
+      "title": "asdf",
+      "subTitle": "asdf",
+      "image": "asdf",
+      "text": "",
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "title": "asdf",
+      "subTitle": "asdf",
+      "image": "asdf",
+      "text": "",
+      "id": 40
+    },
+    {
+      "title": "asdf",
+      "subTitle": "asdf",
+      "image": "asdf",
+      "text": "",
+      "id": 41
+    },
+    {
+      "title": "sadf",
+      "subTitle": "asdf",
+      "image": "asdf",
+      "text": "",
+      "id": 42
+    },
+    {
+      "title": "asdf",
+      "subTitle": "asdf",
+      "image": "asdf",
+      "text": "",
+      "id": 43
+    },
+    {
+      "id": 44
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46
+    },
+    {
+      "id": 47
+    },
+    {
+      "id": 48
     }
   ],
   "users": [
@@ -301,6 +439,66 @@
       "name": "Leo",
       "img": "https://unsplash.it/300/?random",
       "desc": "I'm not real. I'm just a pseudonym of a guy that doesn't like waiting for fast food workers to figure out how to spell his name."
+    },
+    {
+      "name": "as",
+      "img": "ads",
+      "desc": "asd",
+      "id": 13
+    },
+    {
+      "name": "asd",
+      "img": "asd",
+      "desc": "asd",
+      "id": 14
+    },
+    {
+      "name": "asd",
+      "img": "",
+      "desc": "asd",
+      "id": 15
+    },
+    {
+      "name": "asd",
+      "img": "",
+      "desc": "asd",
+      "id": 16
+    },
+    {
+      "name": "ad",
+      "img": "",
+      "desc": "asd",
+      "id": 17
+    },
+    {
+      "name": "asdf",
+      "img": "",
+      "desc": "asdf",
+      "id": 18
+    },
+    {
+      "name": "asdf",
+      "img": "asdf",
+      "desc": "asd",
+      "id": 19
+    },
+    {
+      "name": "asdf",
+      "img": "asdf",
+      "desc": "asdf",
+      "id": 20
+    },
+    {
+      "name": "asd",
+      "img": "",
+      "desc": "asdf",
+      "id": 21
+    },
+    {
+      "name": "asd",
+      "img": "",
+      "desc": "asdf",
+      "id": 22
     }
   ]
 }

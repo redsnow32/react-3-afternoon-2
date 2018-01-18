@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
+
 import {Switch, Route} from 'react-router-dom';
 
 import Header from './components/subcomponents/Header'
@@ -27,6 +28,7 @@ class App extends Component {
           <Route path='/edit/:id' component={Edit} />
           <Route path='/search' component={Search} />
           <Route path='/' component={Home} />
+          <Blog />
         </Switch>
         <Footer />
       </div>
